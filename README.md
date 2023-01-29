@@ -22,9 +22,6 @@
 	**username** : Virgil.Jacobi19
 	**password** : H97DmukSybXgJTz
 	
-## How to use generated APIs:
-[Click here to visit documentation](<https://docs.dhiwise.com/docs/node/generate-apis/> "API Documentation")
-
 ## How to run with Docker ? :
 - if you have docker file you can execute following command
 
